@@ -1,2 +1,4 @@
-# QuantGenomics_Workshop_Nov2020
-Workshop-Nov 2020
+# QuantGenomics Workshop (Nov2020)
+File Description:
+
+Day1-Workshop Requirements.pptx : This contains the software and download links that we use for the workshop
