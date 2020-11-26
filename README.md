@@ -10,3 +10,5 @@ Day2-Linkage_mapping_raw_data.xlsx - Data for linkage mapping demo
 Day2-Linkage_mapping - Lecture on linkage mapping and carthagene demo
 
 Day3-QTl_Mapping_data = Data for QTL analysis demo
+
+Day3-QTL_analysis.pptx - Lecture on QTL mapping and Qgene Demo
