@@ -16,3 +16,5 @@ Day3-QTL_analysis.pptx - Lecture on QTL mapping and Qgene Demo
 Day4-AM_genotype.txt - Data for AM in Tassel Demo (Markers)
 
 Day4-AM_phenotype_2Traits.txt - Data for AM in Tassel Demo (Phenotype)
+
+Day4-Association_Mapping.pdf - Lecture on Association Mapping
